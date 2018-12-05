@@ -37,7 +37,7 @@
   <input type="text">
   <br><br>
   <label id="km">Km : </label>
-  <input type="tetx">
+  <input type="text">
   <br><br>
   <h3>Hors Forfait</h3>
   /*code php ou javascripte*/
