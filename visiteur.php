@@ -40,7 +40,7 @@
   <input type="tetx">
   <br><br>
   <h3>Hors Forfait</h3>
-  /*code php ou javascript*/
+  /*code php ou javascripte*/
   <br><br>
   <h4>Hors Classification</h4>
   <br><br>
