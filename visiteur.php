@@ -20,8 +20,11 @@
   <br><br>
   <h1>Saisie</h1>
   <br><br>
+  <aside>
+   <p>qsdsds</p>
+  </aside>
   <form method="POST" Aaction="#">
-    <label id="pe">PERIODE</label>
+  <label id="pe">PERIODE</label>
   <label id="mo">Mois et Année : </label>
   <input type="month" id="mint">
   <br><br>
